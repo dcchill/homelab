@@ -53,7 +53,7 @@ Primary storage and container host.
 
 --------------------------------------------------------------------------------
 
-# 🎮 Game Servers
+# Game Servers
 
 - Crafty Controller (Minecraft management)
 - Terraria Server
