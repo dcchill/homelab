@@ -106,6 +106,17 @@ ZFS snapshots enabled for critical datasets.
 - Port forwarding minimized
 - WireGuard VPN built into router.
 
+## Domain Management
+
+- Domain managed through Cloudflare
+- A records pointing to public WAN IP
+- CNAME records for service subdomains
+- SRV records configured for Minecraft servers
+- Reverse Proxy
+- Nginx Proxy Manager running on TrueNAS
+- Subdomain-based routing
+- Automatic Let's Encrypt SSL certificates
+- Public services proxied internally
 --------------------------------------------------------------------------------
 
 # Backup Strategy
